@@ -10,7 +10,7 @@ and port schema. The default configuration utilizes the host loopback address an
 a tcp connection for call and response.
 
 
-//Usage
+<h3><br>Usage<br></h3>
 Contained within the /src folder is the source code and two scripts: 
 
 runServer & runClient
