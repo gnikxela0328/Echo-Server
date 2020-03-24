@@ -1,0 +1,5 @@
+#!/bin/bash
+
+gcc server.c -o server -lssl -lcrypto
+
+./server AlexanderKing 3000
