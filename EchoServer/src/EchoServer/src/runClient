@@ -1,0 +1,5 @@
+#!/bin/bash
+
+gcc client.c -o client -lssl -lcrypto 
+
+./client AlexanderKing 127.0.0.1 3000
